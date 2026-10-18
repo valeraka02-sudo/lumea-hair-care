@@ -2,10 +2,10 @@
 
 /* Зміна розміру та кольору тексту на вступному екрані */
 #intro p {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     color: #e8ddd0;
 }
 /* Самостійно освоєна властивість — заокруглення кнопок */
 #products .button {
-    border-radius: 10px;
+    border-radius: 20px;
 }
