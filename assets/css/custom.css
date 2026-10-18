@@ -5,3 +5,7 @@
     font-size: 1.4rem;
     color: #e8ddd0;
 }
+/* Самостійно освоєна властивість — заокруглення кнопок */
+#products .button {
+    border-radius: 10px;
+}
